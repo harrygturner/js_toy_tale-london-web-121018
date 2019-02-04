@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 19
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 7
     },
     {
       "id": 5,
@@ -40,13 +40,55 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Combat Carl",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/b/b4/Combat_Carl.png/revision/latest?cb=20170702173426",
+      "likes": 3,
+      "id": 9
+    },
+    {
+      "name": "Lenny",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/b/b6/Id_2784_lenny.jpg/revision/latest?cb=20111206023703",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "name": "Lotso",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/49/A61F0EF0-83A8-4E0D-B616-2E1ECE5C9062.png/revision/latest?cb=20181126205424",
+      "likes": 2,
+      "id": 11
+    },
+    {
+      "name": "Big Baby",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/7/72/68AB8DCC-49C8-483A-B3D5-DC7C50BEFF89.jpeg/revision/latest?cb=20181206151900",
+      "likes": 3,
+      "id": 12
+    },
+    {
+      "name": "Big Baby",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/7/72/68AB8DCC-49C8-483A-B3D5-DC7C50BEFF89.jpeg/revision/latest?cb=20181206151900",
+      "likes": 3,
+      "id": 13
+    },
+    {
+      "name": "Chuckles",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/0/01/3333444_f260-1-.jpg/revision/latest?cb=20100719014909",
+      "likes": 1,
+      "id": 14
+    },
+    {
+      "name": "Buttercup",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/c/c6/AF65ED91-5758-45FC-AE51-0F67C69E757C.png/revision/latest?cb=20181207000801",
+      "likes": 4,
+      "id": 15
     }
   ]
 }
