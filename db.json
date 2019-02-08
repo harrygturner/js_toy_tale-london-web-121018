@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 9
+      "likes": 14
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 19
+      "likes": 21
     },
     {
       "id": 3,
@@ -75,7 +75,7 @@
     {
       "name": "Big Baby",
       "image": "https://vignette.wikia.nocookie.net/pixar/images/7/72/68AB8DCC-49C8-483A-B3D5-DC7C50BEFF89.jpeg/revision/latest?cb=20181206151900",
-      "likes": 3,
+      "likes": 4,
       "id": 13
     },
     {
@@ -89,6 +89,12 @@
       "image": "https://vignette.wikia.nocookie.net/pixar/images/c/c6/AF65ED91-5758-45FC-AE51-0F67C69E757C.png/revision/latest?cb=20181207000801",
       "likes": 4,
       "id": 15
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 16
     }
   ]
 }
